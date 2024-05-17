@@ -1,13 +1,5 @@
-# A Link To This Application Hosted On A Domain Can Be Found Here: https://classify.wiki/
+Classify is a React website that allows users to rate teachers and classes at our high school. It also has comment forums where users can discuss their experiences with teachers and classes. This website can be a valuable resource for younger students when registering for classes they do not know much about.
 
-
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode although you may face errors running this as our backend Amplify and Google Earth API keys are not publicly accessible.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Roles:
+Programmers: Jeremy Chuah & Jay Bhalala
+Marketing/Vision: Jad Bazian & Faizan Kalam
