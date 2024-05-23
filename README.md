@@ -1,7 +1,5 @@
 # Classify
-Roles:
-Programmers: Jeremy Chuah & Jay Bhalala
-Marketing/Vision: Jad Bazian & Faizan Kalam
+Roles:<br>Programmers: Jeremy Chuah & Jay Bhalala<br>Marketing/Vision: Jad Bazian & Faizan Kalam
 
 ## About Classify
 Classify allows students to view the difficulty, experience, etc. of a class and give their own ratings about it too. All of these ratings are then averaged and comments can be viewed by any student. It also helps students see what their day would look like given their course load. It does so by allowing you to fill out your schedule and our application will average out all of the statistics from all your classes. 
